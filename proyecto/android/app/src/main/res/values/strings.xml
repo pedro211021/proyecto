@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ProyectoSupabase</string>
+    <string name="title_activity_main">ProyectoSupabase</string>
+    <string name="package_name">com.proyecto.supabase</string>
+    <string name="custom_url_scheme">com.proyecto.supabase</string>
+</resources>
